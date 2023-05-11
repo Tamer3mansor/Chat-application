@@ -1,5 +1,5 @@
 # Chat Application <Socket.io>
-# This is a simple Chat application between more than client as practcing on WebSocket
+# This is a simple Chat application between more than client as practicing  on WebSocket
 # Technologies >>
 ## Node.js socket.io Html 
 # Steps >>
